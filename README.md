@@ -41,6 +41,7 @@ A curated list of awesome works in Routing LLMs paradigm
 | [OptLLM: Optimal Assignment of Queries to Large Language Models](https://arxiv.org/abs/2405.15130)                                        | ICWS'24               |   [Link](https://github.com/superyue72/OptLLM)     | Method |
 | [RouterBench: A Benchmark for Multi-LLM Routing System](https://openreview.net/forum?id=IVXmV8Uxwh)                                   | ICMLW'24            | [Link](https://github.com/withmartian/routerbench)      | Benchmark |
 | [Fly-Swat or Cannon? Cost-Effective Language Model Choice via Meta-Modeling](https://dl.acm.org/doi/10.1145/3616855.3635825)                                        | WSDM'24               |   [Link](https://github.com/epfl-dlab/forc)     | Method |
+| [Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing](https://arxiv.org/abs/2404.14618)                                        | ICLR'24               |  -     | Method |
 |  [Model Spider: Learning to Rank Pre-Trained Models Efficiently](https://openreview.net/pdf?id=exg62lfHrB)                                | NeurIPS'23             | [Link](https://github.com/zhangyikaii/Model-Spider)      | Method |
 | [LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion](https://arxiv.org/abs/2306.02561)                                   | ACL'23           | [Link](https://yuchenlin.xyz/LLM-Blender/)      | Method |
 
