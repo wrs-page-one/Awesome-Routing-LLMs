@@ -13,7 +13,7 @@ A curated list of awesome works in Routing LLMs paradigm
 | [MasRouter: Learning to Route LLMs for Multi-Agent Systems](https://arxiv.org/pdf/2502.11133)                                        | arxiv'25               |   [Link](https://github.com/yanweiyue/masrouter)   |  Method |
 | [Leveraging Uncertainty Estimation for Efficient LLM Routing](https://arxiv.org/pdf/2502.11021)                                        | arxiv'25               |   -    |  Method |解决了现有方法的局限性，例如人类偏好数据的主观性和基于准确度指标的僵化性。利用语义熵。llm-as-a-judge|
 | [Prompt-to-Leaderboard](https://arxiv.org/pdf/2502.14855)                                   | arxiv'25            | [Link](https://github.com/lmarena/p2l)      | Method |
-| [MixLLM: Dynamic Routing in Mixed Large Language Models](https://arxiv.org/pdf/2502.18482)                                   | arxiv'25            |-     | Method |
+| [MixLLM: Dynamic Routing in Mixed Large Language Models](https://arxiv.org/pdf/2502.18482)                                   | arxiv'25            |-     | Method |集成系统，持续学习，多阶段决策，实时更新|
 | [MetaLLM: A High-performant and Cost-efficient Dynamic Framework for Wrapping LLMs](https://arxiv.org/abs/2407.10834)                                   | arxiv'24            |-     | Method |
 | [Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models](https://arxiv.org/abs/2407.06089)                                   | arxiv'24            |-     | Survey |
 | [Routoo: Learning to Route to Large Language Models Effectively](https://arxiv.org/abs/2401.13979)                                   | arxiv'24            |-     | Method |
