@@ -18,7 +18,7 @@ A curated list of awesome works in Routing LLMs paradigm
 | [Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models](https://arxiv.org/abs/2407.06089)                                   | arxiv'24            |-     | Survey |
 | [Routoo: Learning to Route to Large Language Models Effectively](https://arxiv.org/abs/2401.13979)                                   | arxiv'24            |-     | Method |
 | [Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models ](https://arxiv.org/abs/2308.11601)                                   | arxiv'23            |-     | Method |
-| [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176)                                   | arxiv'23           | [Link](https://github.com/stanford-futuredata/FrugalGPT)      | Method |
+| [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176)                                   | arxiv'23           | [Link](https://github.com/stanford-futuredata/FrugalGPT)      | Method |纯工程性工作，参考意义不大｜
 | [TensorOpera Router: A Multi-Model Router for Efficient LLM Inference](https://arxiv.org/abs/2408.12320)                                   | arxiv'24           |      | Method |从语义层次构建pair数据进行训练｜
 
 
